@@ -2,6 +2,10 @@
 
 An AI-powered **Movie Information Extractor** that uses **Streamlit, LangChain, Mistral AI, and Pydantic** to extract structured movie information from a natural-language paragraph.
 
+## 🖥️ Application Preview
+
+![Movie Information Extractor](screenshots/app.png)
+
 ## ✨ Features
 
 * 🎬 Extracts movie title
